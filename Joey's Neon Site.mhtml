@@ -1,0 +1,155 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-abd2bb84d5dd65c8f8b473f20a9bb863d685dc96/MyFiles/Downloads/neon_portfolio_site.html
+Subject: Joey's Neon Site
+Date: Wed, 20 Aug 2025 03:48:30 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--hnQT0WfVpWzhEof8KGJqM9xOq6w9IHydzQagbhxheV----"
+
+
+------MultipartBoundary--hnQT0WfVpWzhEof8KGJqM9xOq6w9IHydzQagbhxheV----
+Content-Type: text/html
+Content-ID: <frame-62941F809A30BB97BF23545264BA496C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-abd2bb84d5dd65c8f8b473f20a9bb863d685dc96/MyFiles/Downloads/neon_portfolio_site.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-7d25328c-af91-49f9-bf15-e0c97b09af0a@mhtml.blink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Joey's Neon Site</title>
+ =20
+</head>
+<body>
+  <header>
+    <h1>Joey's Neon Ride</h1>
+    <nav>
+      <a href=3D"file:///home/chronos/u-abd2bb84d5dd65c8f8b473f20a9bb863d68=
+5dc96/MyFiles/Downloads/neon_portfolio_site.html#home">Home</a>
+      <a href=3D"file:///home/chronos/u-abd2bb84d5dd65c8f8b473f20a9bb863d68=
+5dc96/MyFiles/Downloads/neon_portfolio_site.html#about">About</a>
+      <a href=3D"file:///home/chronos/u-abd2bb84d5dd65c8f8b473f20a9bb863d68=
+5dc96/MyFiles/Downloads/neon_portfolio_site.html#projects">Projects</a>
+      <a href=3D"file:///home/chronos/u-abd2bb84d5dd65c8f8b473f20a9bb863d68=
+5dc96/MyFiles/Downloads/neon_portfolio_site.html#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id=3D"home" class=3D"hero">
+    <h2>Welcome to the Cadillac Zone =F0=9F=9A=80</h2>
+    <p>Where neon meets horsepower.</p>
+    <button>Get Started</button>
+  </section>
+
+  <section id=3D"about">
+    <div class=3D"card">
+      <h2>About Me</h2>
+      <p>I=E2=80=99m Joey. I like to keep things bold, bright, and badass. =
+This site is my playground where projects, ideas, and vibes come to life in=
+ full neon glory.</p>
+    </div>
+  </section>
+
+  <section id=3D"projects">
+    <div class=3D"card">
+      <h2>Projects</h2>
+      <p>Check out some of my builds, experiments, and digital hustles. Eve=
+rything is tuned for speed, shine, and that Cadillac touch.</p>
+    </div>
+  </section>
+
+  <section id=3D"contact">
+    <div class=3D"card">
+      <h2>Contact</h2>
+      <p>Want to roll with me? Drop a line and let=E2=80=99s make some neon=
+ magic happen.</p>
+      <button>Email Me</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>=C2=A9 2025 Joey's Neon Cadillac Vibes. All Rights Reserved.</p>
+  </footer>
+
+
+</body></html>
+------MultipartBoundary--hnQT0WfVpWzhEof8KGJqM9xOq6w9IHydzQagbhxheV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v34/yMJMM=
+IlzdpvBhQQL_SC3X9yhF25-T1nyKS6BoWgz.woff2") format("woff2"); unicode-range:=
+ U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+=
+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U=
++FFFD; }
+------MultipartBoundary--hnQT0WfVpWzhEof8KGJqM9xOq6w9IHydzQagbhxheV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7d25328c-af91-49f9-bf15-e0c97b09af0a@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DOrbitron:wght@500&d=
+isplay=3Dswap");
+
+body { margin: 0px; font-family: Orbitron, sans-serif; background: linear-g=
+radient(135deg, rgb(13, 13, 13), rgb(26, 0, 51)); color: rgb(238, 238, 238)=
+; overflow-x: hidden; }
+
+header { position: fixed; top: 0px; width: 100%; display: flex; justify-con=
+tent: space-between; align-items: center; padding: 1rem 2rem; background: r=
+gba(0, 0, 0, 0.85); box-shadow: rgb(0, 255, 255) 0px 0px 15px; z-index: 100=
+0; }
+
+header h1 { color: rgb(138, 43, 226); text-shadow: rgb(0, 255, 255) 0px 0px=
+ 10px, rgb(138, 43, 226) 0px 0px 20px; }
+
+nav a { margin: 0px 1rem; color: rgb(0, 255, 255); text-decoration: none; f=
+ont-weight: bold; transition: 0.3s; }
+
+nav a:hover { color: rgb(255, 255, 255); text-shadow: rgb(138, 43, 226) 0px=
+ 0px 10px, silver 0px 0px 20px; }
+
+section { min-height: 100vh; padding: 6rem 2rem 2rem; display: flex; flex-d=
+irection: column; justify-content: center; align-items: center; text-align:=
+ center; }
+
+.hero { background: radial-gradient(circle, rgba(0, 255, 255, 0.2), transpa=
+rent); }
+
+.hero h2 { font-size: 3rem; color: silver; text-shadow: rgb(0, 255, 255) 0p=
+x 0px 20px, rgb(138, 43, 226) 0px 0px 30px; animation: 3s ease 0s infinite =
+alternate none running glow; }
+
+@keyframes glow {=20
+  0% { text-shadow: rgb(0, 255, 255) 0px 0px 10px, rgb(138, 43, 226) 0px 0p=
+x 20px; }
+  100% { text-shadow: silver 0px 0px 25px, rgb(0, 255, 255) 0px 0px 50px; }
+}
+
+.card { background: rgba(255, 255, 255, 0.05); border: 1px solid rgb(0, 255=
+, 255); border-radius: 15px; padding: 2rem; margin: 1rem; width: 80%; max-w=
+idth: 600px; box-shadow: rgba(0, 255, 255, 0.3) 0px 0px 20px; transition: t=
+ransform 0.3s, box-shadow 0.3s; }
+
+.card:hover { transform: translateY(-10px); box-shadow: rgb(138, 43, 226) 0=
+px 0px 30px, rgb(0, 255, 255) 0px 0px 50px; }
+
+button { background: linear-gradient(90deg, rgb(0, 255, 255), rgb(138, 43, =
+226)); border: none; padding: 1rem 2rem; border-radius: 30px; color: white;=
+ font-size: 1rem; font-weight: bold; cursor: pointer; transition: 0.3s; box=
+-shadow: rgb(0, 255, 255) 0px 0px 15px; }
+
+button:hover { background: linear-gradient(90deg, rgb(138, 43, 226), silver=
+); box-shadow: silver 0px 0px 25px, rgb(0, 255, 255) 0px 0px 40px; }
+
+footer { padding: 2rem; text-align: center; background: rgb(13, 13, 13); co=
+lor: rgb(153, 153, 153); font-size: 0.9rem; }
+------MultipartBoundary--hnQT0WfVpWzhEof8KGJqM9xOq6w9IHydzQagbhxheV------
